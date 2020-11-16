@@ -7,7 +7,7 @@
 $ node index.js
 ```
 ## How to use
-in your js file:
+in index.js file change value of variable "unsortedArray" to an array of numbers that you want
 
 ```javascript
 const mergesort = require('./merge-sort');
